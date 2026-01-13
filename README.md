@@ -85,3 +85,13 @@ The application is deployed on Vercel and uses environment variables for Firebas
 
 
 Live Demo https://smart-issue-board-ten.vercel.app
+
+
+
+
+EXAMPLE:
+mail:test123@gmail.com
+password:test123
+
+mail:uppusathwik1354@gmail.com
+password:22331a4259@CSM
