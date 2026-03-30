@@ -1,4 +1,4 @@
-# Smart Issue Board
+## Smart Issue Board
 
 Smart Issue Board is a simple issue-tracking application built as part of an internship assignment.  
 The application allows users to create, view, and manage issues with authentication, duplicate detection, and workflow rules.
@@ -85,7 +85,6 @@ The application is deployed on Vercel and uses environment variables for Firebas
 
 
 Live Demo https://smart-issue-board-ten.vercel.app
-
 
 
 
